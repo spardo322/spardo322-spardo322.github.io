@@ -1,0 +1,29 @@
+
+*{
+    margin: 0px;
+}
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+   padding-bottom: 5px;
+   font-size: 3rem;
+   margin: 2rem;
+}
+
